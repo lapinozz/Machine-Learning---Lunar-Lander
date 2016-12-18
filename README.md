@@ -5,6 +5,19 @@ It has been designed to allow multiple environement for the agent but the only o
 
 To compile it you will need SFML, ImGui and ImGui's SFML binding.
 
+# Behavior
+
+Of course this is not a finished project and still need some polishing, especially some fine tunning for the agents.
+At the moment of writing this the agents always develop the same behavior.
+
+They just keep rotating at all time in the same direction no matter what.
+When they are facing toward the landing pad they then activate their thruster.
+
+This gives rise to a really weird and jerky movement.
+I believe that adjusting the inputs and/or the altering slightly the mechanic of the game would make it possible to see emerge more complexe and suitable behavior.
+
+# Inputs\Outputs
+
 The agent have a couple of inputs and outputs, for the lunar lander environment they are the following:
 
 As Inputs they receive, all normalized from -1 to + 1
