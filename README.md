@@ -16,6 +16,10 @@ When they are facing toward the landing pad they then activate their thruster.
 This gives rise to a really weird and jerky movement.
 I believe that adjusting the inputs and/or the altering slightly the mechanic of the game would make it possible to see emerge more complexe and suitable behavior.
 
+free low res 8 FPS gif(t)  
+*Note that begin too lazy to let them run longer this a pretty young generation and thus this is not the best they get* 
+![alt tag](behavior.gif)
+
 # Inputs\Outputs
 
 The agent have a couple of inputs and outputs, for the lunar lander environment they are the following:
