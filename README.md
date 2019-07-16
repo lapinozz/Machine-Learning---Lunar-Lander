@@ -1,6 +1,6 @@
 # Machine Learning - Lunar Lander
 
-This is a small toy project abotu machine learning.
+This is a small toy project about machine learning.
 It has been designed to allow multiple environement for the agent but the only one available for the moment is a Lunar-Lander-like game.
 
 To compile it you will need SFML, ImGui and ImGui's SFML binding.
